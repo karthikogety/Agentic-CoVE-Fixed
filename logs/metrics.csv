@@ -21,3 +21,4 @@ beauty_concat_wt1_wi1_wm0.4,beauty,concat,1.0,1.0,0.4,10,0.8055271506309509,0.29
 2025-08-20T08:16:05,beauty,beauty_text_emb,sentence-transformers/all-MiniLM-L6-v2,10,0.4949186991869919,0.2977096456195597,
 2025-08-20T08:18:37,beauty,beauty_text_emb,sentence-transformers/all-MiniLM-L6-v2,10,0.4949186991869919,0.2977096456195597,
 2025-08-20T13:05:33,beauty,beauty_text_emb,sentence-transformers/all-MiniLM-L6-v2,10,0.4949186991869919,0.2977096456195597,
+2025-08-20T15:18:25,beauty,beauty_text_emb,sentence-transformers/all-MiniLM-L6-v2,10,0.4949186991869919,0.37306833399868666,
