@@ -40,4 +40,4 @@ def normalize_dataset(raw_dir: Path, out_dir: Path) -> dict:
         "ratings_mean": float(reviews_df["rating"].mean()),
     }
 
-__all__ = ["normalize_dataset", "load_reviews"]
+__all__ = ["normalize_dataset", "read_reviews_json"]

@@ -71,7 +71,7 @@ def _load_pils(filepaths: List[Path]):
 
 def main(dataset: str, batch_size: int, model_name: str, pretrained: str):
     paths = get_dataset_paths(dataset)
-    proc_dir = ensure_dir(paths["processed"])
+    proc_dir = ensure_dir(Path(paths["processed"]))
 
     items_fp = proc_dir / "items_with_meta.parquet"
     if not items_fp.exists():
